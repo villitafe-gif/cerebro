@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-28.md",
+                "file": "Bienvenido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-28"
+              "title": "Bienvenido"
             }
           }
         ]
@@ -202,9 +202,9 @@
   },
   "active": "214cd8d8a8e33955",
   "lastOpenFiles": [
+    "2026-03-28.md",
     "Bienvenido.md",
     "GUIA_DE_INICIO.md",
-    "2026-03-28.md",
     "Sin título.canvas"
   ]
 }
