@@ -2,6 +2,8 @@
 
 **Nota importante:** Siempre debe usar el español en esta bóveda para mantener la consistencia y facilitar el acceso al conocimiento en su idioma nativo.
 
+**Formato de archivos:** Todas las notas deben estar en formato Markdown (.md) para garantizar la compatibilidad y el correcto funcionamiento de las funciones de enlazado y búsqueda de Obsidian.
+
 ## ¿Qué es Obsidian?
 
 Obsidian es una potente aplicación de toma de notas y gestión del conocimiento que funciona con archivos locales en formato Markdown. Te permite crear una "bóveda" personal de notas interconectadas que puedes organizar, enlazar y explorar de maneras poderosas.
