@@ -1,5 +1,7 @@
 # Bienvenido a tu bóveda de Obsidian
 
+**Nota importante:** Siempre debe usar el español en esta bóveda para mantener la consistencia y facilitar el acceso al conocimiento en su idioma nativo.
+
 ## ¿Qué es Obsidian?
 
 Obsidian es una potente aplicación de toma de notas y gestión del conocimiento que funciona con archivos locales en formato Markdown. Te permite crear una "bóveda" personal de notas interconectadas que puedes organizar, enlazar y explorar de maneras poderosas.
